@@ -4,19 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student at the University of Central Florida studying Computer Vision under Dr. Mubarak Shah.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** anomaly detection, privacy preservation, action recognition, self supervised learning
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Aug. 2022]** Begin graduate school under ORC PhD fellowship.
+- **[Jun. 2021]** Solar defect segmentation work invited to publish in JPV (Journal of Photovoltaics) is accepted.
+- **[Mar. 2021]** Our work on semantic segmentation of solar panel defects is accepted for oral presentation at PVSC 48, finalist for Best Student Presentation Award.
+- **[May 2020]** Began NSF REU in Computer Vision at UCF CRCV lab.
 
 {% include_relative _includes/publications.md %}
 
