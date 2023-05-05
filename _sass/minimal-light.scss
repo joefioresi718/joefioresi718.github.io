@@ -220,6 +220,8 @@ papertitle {
 
     .image.avatar {
       border-radius: 100%;
+      width: max-content;
+      height: max-content;
     }
 
       .image.avatar:before {

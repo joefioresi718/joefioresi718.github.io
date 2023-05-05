@@ -10,6 +10,9 @@ keywords: crcv, ucf, computer vision
 description: Joe Fioresi personal website.
 canonical:
 
+# This option is used to enable the CRCV template.
+enable_crcv_logo: true
+
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=fSE6-0IAAAAJ&hl=en
