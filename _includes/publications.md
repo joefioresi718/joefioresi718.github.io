@@ -16,7 +16,7 @@
     <div class="periodical"><em>International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.</em></div>
     <div class="links">
       <a href="./assets/files/ted_spad_arxiv.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://arxiv.org/abs/2308.11072" class btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px:">ArXiV</a>
+      <a href="https://arxiv.org/abs/2308.11072" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px:">ArXiV</a>
       <a href="https://github.com/UCF-CRCV/TeD-SPAD" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://joefioresi718.github.io/TeD-SPAD_webpage/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
 <!--       <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
