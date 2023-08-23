@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a 1st year Ph.D. student at the University of Central Florida (UCF) studying Computer Vision under Dr. Mubarak Shah. My main focus is in video understanding tasks, with an emphasis on learning useful representations under privacy constraints. I am the UCF representative on the student leadership council for the Center for Smart City Streetscapes (CS3) NSF ERC. Feel free to reach out with questions or to discuss research!
+I am a 2nd year Ph.D. student at the University of Central Florida (UCF) studying Computer Vision under Dr. Mubarak Shah. My main focus is in video understanding tasks, with an emphasis on learning useful representations under privacy constraints. I am the UCF representative on the student leadership council for the Center for Smart City Streetscapes (CS3) NSF ERC. Feel free to reach out with questions or to discuss research!
 
 ## Research Interests
 
