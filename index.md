@@ -12,7 +12,8 @@ I am a 2nd year Ph.D. student at the University of Central Florida (UCF) studyin
 
 ## News
 
-- **[Sept. 2023]** Won 3rd Place in the 3rd Annual HSI Battle of the Brains competition, awarded eBay scholarship!
+- **[Oct. 2023]** Presented anonymized anomaly detection paper in Paris @ ICCV 2023.
+- **[Sept. 2023]** Won 3rd Place in the 3rd Annual HSI Battle of the Brains competition, individually awarded eBay competition scholarship!
 - **[Jul. 2023]** ICCV 2023 paper accepted for poster presentation!
 - **[Mar. 2023]** Elected UCF Institution Representative on an NSF ERC student leadership council (CS3).
 - **[Aug. 2022]** Began graduate school under Dr. Mubarak Shah, given ORC PhD fellowship.
