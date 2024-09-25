@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a 2nd year Ph.D. student at the University of Central Florida (UCF) studying Computer Vision under Dr. Mubarak Shah. My main focus is in video understanding tasks, with an emphasis on learning useful representations under privacy and fairness constraints. I am the UCF representative on the student leadership council for the Center for Smart City Streetscapes (CS3) NSF ERC. Feel free to reach out with questions or to discuss research!
+I am a 3rd year Ph.D. student at the University of Central Florida (UCF) studying Computer Vision under Dr. Mubarak Shah. My main focus is in video understanding tasks, with an emphasis on learning useful representations under privacy and fairness constraints. I served as the UCF representative on the student leadership council for the Center for Smart City Streetscapes (CS3) NSF ERC. Feel free to reach out with questions or to discuss research!
 
 ## Research Interests
 
@@ -12,6 +12,8 @@ I am a 2nd year Ph.D. student at the University of Central Florida (UCF) studyin
 
 ## News
 
+- **[Sept. 2024]** Awarded 2nd Place in the Second Perception Test Challenge Grounded VQA task @ ECCV24!!
+- **[May 2024]** Began mentorship of Computer Vision REU undergraduate student. 
 - **[Oct. 2023]** Presented anonymized anomaly detection paper in Paris @ ICCV 2023.
 - **[Sept. 2023]** Won 3rd Place in the 3rd Annual HSI Battle of the Brains competition, individually awarded eBay competition scholarship!
 - **[Jul. 2023]** ICCV 2023 paper accepted for poster presentation!
