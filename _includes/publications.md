@@ -69,7 +69,7 @@ Damaged Solar Panels</div>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/pvsc_teaser.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">PVSC</abbr>
+    <abbr class="badge">PVSC/JPV</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">

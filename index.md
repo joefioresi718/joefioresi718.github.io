@@ -13,7 +13,7 @@ I am a 3rd year Ph.D. student at the University of Central Florida (UCF) studyin
 ## News
 
 - **[Jan. 2025]** ICLR 2025 paper accepted for poster presentation!
-- **[Sept. 2024]** Awarded 2nd Place in the Second Perception Test Challenge Grounded VQA task @ ECCV24!!
+- **[Sept. 2024]** Awarded 2nd Place in the Google DeepMind Second Perception Test Challenge Grounded VQA task @ ECCV24!!
 - **[May 2024]** Began mentorship of Computer Vision REU undergraduate student. 
 - **[Oct. 2023]** Presented privacy-preserving anomaly detection paper in Paris @ ICCV 2023.
 - **[Sept. 2023]** Won 3rd Place in the 3rd Annual HSI Battle of the Brains competition, individually awarded eBay competition scholarship!
