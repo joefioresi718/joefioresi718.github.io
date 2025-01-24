@@ -6,6 +6,27 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/main_architecture.svg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ICLR</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2308.11072"></a>ALBAR: Adversarial Learning approach to mitigate Biases in Action Recognition</div>
+    <div class="author"><strong>Joseph Fioresi</strong>, Ishan Dave, Mubarak Shah</div>
+    <div class="periodical"><em>International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.</em></div>
+    <div class="links">
+      <a href="./assets/files/albar_arxiv.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://arxiv.org/abs/2308.11072" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">ArXiV</a>
+      <a href="https://github.com/UCF-CRCV/ALBAR" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://joefioresi718.github.io/ALBAR_webpage/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+<!--       <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
+      <strong><i style="color:#e74d3c">Poster Presentation</i></strong>
+    </div>
+  </div>
+</div>
+
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/TeaserFigure.svg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ICCV</abbr>
   </div>
