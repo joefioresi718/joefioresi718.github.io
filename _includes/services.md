@@ -4,7 +4,7 @@
 
 <ul style="margin:0 0 5px;">
   <li><a href="http://cvpr2025.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025</autocolor></a></li>
-  <li><a href="https://iclr.cc/">International Conference on Learning Representations (ICLR) 2025</autocolor></a></li>
+  <li><a href="https://iclr.cc/"><autocolor>International Conference on Learning Representations (ICLR) 2025</autocolor></a></li>
   <li><a href="https://eccv2024.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2024</autocolor></a></li>
   <li><a href="https://neurips.cc/"><autocolor>Conference on Neural Information Processing Systems (NeurIPS) 2024</autocolor></a></li>
   <li><a href="https://bmvc2024.org/"><autocolor>British Machine Vision Conference (BMVC) 2024</autocolor></a></li>
