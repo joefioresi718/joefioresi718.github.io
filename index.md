@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a 3rd year Ph.D. student at the University of Central Florida (UCF) studying Computer Vision under Dr. Mubarak Shah. My main focus is in video understanding tasks, with an emphasis on learning useful representations under privacy and fairness constraints. I am currently exploring extending these efforts to video-text multimodal generative models. I recently served as the UCF representative on the student leadership council for the Center for Smart City Streetscapes (CS3) NSF ERC. Feel free to reach out with questions or to discuss research!
+I am a 4rd year Ph.D. student at the University of Central Florida (UCF) studying Computer Vision under Dr. Mubarak Shah. My main focus is in video understanding tasks, with an emphasis on learning useful representations under privacy and fairness constraints. I am currently exploring extending these efforts to video-text multimodal generative models. I recently served as the UCF representative on the student leadership council for the Center for Smart City Streetscapes (CS3) NSF ERC. Feel free to reach out with questions or to discuss research!
 
 ## Research Interests
 
@@ -12,6 +12,7 @@ I am a 3rd year Ph.D. student at the University of Central Florida (UCF) studyin
 
 ## News
 
+- **[May 2025]** Started summer internship @ Adobe Seattle! 
 - **[Jan. 2025]** ICLR 2025 paper accepted for poster presentation!
 - **[Sept. 2024]** Awarded 2nd Place in the Google DeepMind Second Perception Test Challenge Grounded VQA task @ ECCV24!!
 - **[May 2024]** Began mentorship of Computer Vision REU undergraduate student. 
@@ -23,6 +24,8 @@ I am a 3rd year Ph.D. student at the University of Central Florida (UCF) studyin
 - **[Jun. 2021]** Solar defect segmentation work invited to publish in JPV (Journal of Photovoltaics) is accepted.
 - **[Mar. 2021]** Our work on semantic segmentation of solar panel defects is accepted for oral presentation at PVSC 48, finalist for Best Student Presentation Award.
 - **[May 2020]** Accepted to summer NSF REU in Computer Vision at UCF CRCV lab.
+
+{% include_relative _includes/work_experience.md %}
 
 {% include_relative _includes/publications.md %}
 
