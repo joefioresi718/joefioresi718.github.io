@@ -1,17 +1,14 @@
 <h2 id="work-experience" style="margin: 2px 0px -15px;">Work Experience</h2>
 
 <div class="work-experience">
-<ol class="bibliography">
 
-<li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/Adobe-logo.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; max-width: 120px;">
-    <abbr class="badge">Adobe</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">PhD Research Scientist/Engineer Intern</div>
+    <div class="title"><strong>PhD Research Scientist/Engineer Intern</strong></div>
     <div class="author">Adobe Inc., Seattle, Washington, USA. May 2025 - Aug. 2025</div>
     <div class="author">Mentors: Pankaj Nathani, Fabian Caba, Kushal Kafle</div>
     <div class="links">
@@ -28,11 +25,10 @@
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/company-logo.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; max-width: 120px;">
-    <abbr class="badge">Company</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Job Title</div>
+    <div class="title"><strong>Job Title</strong></div>
     <div class="author">Company Name, Location. Start Date - End Date</div>
     <div class="author">Supervisor/Host: Name (if applicable)</div>
     <div class="links">
@@ -46,9 +42,6 @@
 </div>
 -->
 
-</li>
-  
 <br>
 
-</ol>
 </div>
