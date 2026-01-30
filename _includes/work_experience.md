@@ -9,12 +9,13 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 30px;">
     <div class="title"><strong>PhD Research Scientist/Engineer Intern</strong></div>
-    <div class="author">Adobe Inc., Seattle, Washington, USA. May 2025 - Aug. 2025</div>
+    <div class="author">Adobe Inc., Seattle, Washington, USA. May 2025 - Nov. 2025</div>
     <div class="author">Mentors: Pankaj Nathani, Fabian Caba, Kushal Kafle</div>
     <div class="links">
       <ul style="margin:0 0 5px;">
-        <li>Designed a novel method for adaptive smart media organization.</li>
-        <li>Developed on-device capable VLM for efficient media tagging and captioning.</li>
+        <li>Developed an efficient model to generate useful embedding space transformations via natural language inputs, achieving high clustering/classification performance while maintaining the benefits of a useful semantic embedding space.</li>
+        <li>Worked closely with product teams and end users to validate and discuss implementation of our model.</li>
+        <li>Filed for a patent, submitted paper currently under review.</li>
       </ul>
     </div>
   </div>

@@ -3,6 +3,10 @@
 <h4 style="margin:0 10px 0;">Conference Reviewing</h4>
 
 <ul style="margin:0 0 5px;">
+  <li><a href="http://cvpr2026.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026</autocolor></a></li>
+  <li><a href="https://iclr.cc/"><autocolor>International Conference on Learning Representations (ICLR) 2026</autocolor></a></li>
+  <li><a href="https://2026.ieeeicassp.org/"><autocolor>IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2026</autocolor></a></li>
+  <li><a href="https://aaai.org/"><autocolor>Association for the Advancement of Artificial Intelligence Conference (AAAI) 2026</autocolor></a></li>
   <li><a href="https://wacv.thecvf.com/"><autocolor>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026</autocolor></a></li>
   <li><a href="https://iccv.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2025</autocolor></a></li>
   <li><a href="http://cvpr2025.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025</autocolor></a></li>
@@ -18,6 +22,7 @@
 <h4 style="margin:0 10px 0;">Journal Reviewing</h4>
 
 <ul style="margin:0 0 20px;">
+  <li><a href="https://www.sciencedirect.com/journal/solar-energy"><autocolor>Solar Energy 2026</autocolor></a></li>
   <li><a href="https://ieee-cas.org/publication/tcsvt"><autocolor>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) 2024/2025</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/solar-energy"><autocolor>Solar Energy 2025</autocolor></a></li>
   <!-- <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li> -->

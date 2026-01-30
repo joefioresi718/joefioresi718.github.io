@@ -6,7 +6,49 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/main_architecture.svg" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/splavu_teaser.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ICLR</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2511.08666"></a>Privacy Beyond Pixels: Latent Anonymization for Privacy-Preserving Video Understanding</div>
+    <div class="author"><strong>Joseph Fioresi</strong>, Ishan Dave, Mubarak Shah</div>
+    <div class="periodical"><em>International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.</em></div>
+    <div class="links">
+      <a href="./assets/files/splavu_arxiv.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://arxiv.org/pdf/2511.08666" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">ArXiV</a>
+      <a href="https://github.com/UCF-CRCV/SPLAVU" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://joefioresi718.github.io/SPLAVU_webpage/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+<!--       <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
+      <strong><i style="color:#e74d3c">Poster Presentation</i></strong>
+    </div>
+  </div>
+</div>
+
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/saferclip_teaser.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">AAAI</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2511.16743"></a>SafeR-CLIP: Mitigating NSFW Content in Vision-Language Models While Preserving Pre-Trained Knowledge</div>
+    <div class="author">Adeel Yousaf, <strong>Joseph Fioresi</strong>, James Beetham, Amrit Singh Bedi, Mubarak Shah</div>
+    <div class="periodical"><em>Association for the Advancement of Artificial Intelligence <strong>(AAAI)</strong>, 2026.</em></div>
+    <div class="links">
+      <a href="./assets/files/saferclip_arxiv.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://arxiv.org/pdf/2511.16743" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">ArXiV</a>
+      <a href="https://huggingface.co/Adeely93/SafeR_CLIP" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://adeelyousaf.github.io/SC-Project-Page/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+<!--       <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
+      <strong><i style="color:#e74d3c">Poster Presentation</i></strong>
+    </div>
+  </div>
+</div>
+
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/main_architecture.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ICLR</abbr>
   </div>
 
