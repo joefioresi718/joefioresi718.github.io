@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a 4rd year Ph.D. candidate at the University of Central Florida (UCF) studying Computer Vision under Dr. Mubarak Shah. I recently had a summer internship with Adobe working on smart media organization. My main focus is in video understanding tasks, with an emphasis on learning useful representations under privacy and fairness constraints. I am currently exploring extending these efforts to video-text multimodal generative models. Feel free to reach out with questions or to discuss research!
+I am a 4rd year Ph.D. candidate at the University of Central Florida (UCF) studying Computer Vision under Dr. Mubarak Shah. I recently had a summer internship with Adobe working on smart media organization. My main focus is in video understanding tasks, with an emphasis on learning useful representations under privacy and fairness constraints. I am currently exploring extending these efforts to video-text multimodal generative models along with agentic frameworks. Feel free to reach out with questions or to discuss research!
 
 ## Research Interests
 
@@ -12,8 +12,11 @@ I am a 4rd year Ph.D. candidate at the University of Central Florida (UCF) study
 
 ## News
 
+- **[Feb. 2026]** Published preprint for MedRoute, our medical multi-agentic system.
+- **[Feb. 2026]** Published preprint for Learning to Share, our memory-based parallel multi-agentic system.
 - **[Jan. 2026]** ICLR 2026 paper accepted for poster presentation!
-- **[Nov. 2024]** AAAI 2026 paper accepted to main conference for poster presentation!
+- **[Nov. 2025]** AAAI 2026 paper accepted to main conference for poster presentation!
+- **[Jun. 2025]** Published preprint for ImplicitQA, our video multimodal model benchmark for implicit reasoning.
 - **[May 2025]** Started summer internship @ Adobe Seattle! 
 - **[Jan. 2025]** ICLR 2025 paper accepted for poster presentation!
 - **[Sept. 2024]** Awarded 2nd Place in the Google DeepMind Second Perception Test Challenge Grounded VQA task @ ECCV24!!
