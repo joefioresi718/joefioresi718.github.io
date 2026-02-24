@@ -3,6 +3,28 @@
 <div class="publications">
 <ol class="bibliography">
 
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/implicit_teaser.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2506.21742"></a>VRR-QA: Visual Relational Reasoning in Videos Beyond Explicit Cues
+</div>
+    <div class="author">Sirnam Swetha, Rohit Gupta, Parth Parag Kulkarni, David G Shatwell, Jeffrey A Chan Santiago, Nyle Siddiqui, <strong>Joseph Fioresi</strong>, Mubarak Shah</div>
+    <div class="periodical"><em><strong>CVPR</strong>, 2026.</em></div>
+    <div class="links">
+      <a href="./assets/files/implicit_arxiv.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://arxiv.org/abs/2506.21742" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">ArXiV</a>
+      <!-- <a href="https://github.com/UCF-CRCV/SPLAVU" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      <a href="https://swetha5.github.io/ImplicitQA/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+<!--       <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
+      <strong><i style="color:#e74d3c">Poster Presentation</i></strong>
+    </div>
+  </div>
+</div>
+
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -84,28 +106,6 @@
       <a href="https://adeelyousaf.github.io/SC-Project-Page/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
 <!--       <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
       <strong><i style="color:#e74d3c">Poster Presentation</i></strong>
-    </div>
-  </div>
-</div>
-
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/implicit_teaser.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2506.21742"></a>ImplicitQA: Going beyond frames towards Implicit Video Reasoning
-</div>
-    <div class="author">Sirnam Swetha, Rohit Gupta, Parth Parag Kulkarni, David G Shatwell, Jeffrey A Chan Santiago, Nyle Siddiqui, <strong>Joseph Fioresi</strong>, Mubarak Shah</div>
-    <div class="periodical"><em><strong>arXiv</strong> preprint, 2025.</em></div>
-    <div class="links">
-      <a href="./assets/files/implicit_arxiv.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://arxiv.org/abs/2506.21742" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">ArXiV</a>
-      <!-- <a href="https://github.com/UCF-CRCV/SPLAVU" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
-      <a href="https://swetha5.github.io/ImplicitQA/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-<!--       <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
-      <strong><i style="color:#e74d3c">Preprint</i></strong>
     </div>
   </div>
 </div>

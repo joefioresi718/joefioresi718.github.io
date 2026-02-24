@@ -12,8 +12,9 @@ I am a 4rd year Ph.D. candidate at the University of Central Florida (UCF) study
 
 ## News
 
-- **[Feb. 2026]** Published preprint for MedRoute, our medical multi-agentic system.
+- **[Feb. 2026]** CVPR 2026 paper accepted for poster presentation!
 - **[Feb. 2026]** Published preprint for Learning to Share, our memory-based parallel multi-agentic system.
+- **[Feb. 2026]** Published preprint for MedRoute, our medical multi-agentic system.
 - **[Jan. 2026]** ICLR 2026 paper accepted for poster presentation!
 - **[Nov. 2025]** AAAI 2026 paper accepted to main conference for poster presentation!
 - **[Jun. 2025]** Published preprint for ImplicitQA, our video multimodal model benchmark for implicit reasoning.
