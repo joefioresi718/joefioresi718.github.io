@@ -14,7 +14,7 @@
     <div class="title"><a href="https://arxiv.org/abs/2506.21742"></a>VRR-QA: Visual Relational Reasoning in Videos Beyond Explicit Cues
 </div>
     <div class="author">Sirnam Swetha, Rohit Gupta, Parth Parag Kulkarni, David G Shatwell, Jeffrey A Chan Santiago, Nyle Siddiqui, <strong>Joseph Fioresi</strong>, Mubarak Shah</div>
-    <div class="periodical"><em><strong>CVPR</strong>, 2026.</em></div>
+    <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026.</em></div>
     <div class="links">
       <a href="./assets/files/implicit_arxiv.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://arxiv.org/abs/2506.21742" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">ArXiV</a>
