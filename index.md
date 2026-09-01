@@ -8,7 +8,12 @@ I am a 5th year Ph.D. candidate at the University of Central Florida (UCF) study
 
 ## Research Interests
 
-- **Computer Vision:** bias mitigation, privacy preservation, large multimodal models, action recognition, anomaly detection
+- **Computer Vision:** bias mitigation, privacy preservation, large multimodal models (LMM), vision-language models (VLM), action recognition, anomaly detection
+- **Agentic Systems:** large language models (LLM), reinforcement learning (RL), memory, efficiency
+
+{% include_relative _includes/work_experience.md %}
+
+{% include_relative _includes/publications.md %}
 
 ## News
 
@@ -19,6 +24,7 @@ I am a 5th year Ph.D. candidate at the University of Central Florida (UCF) study
 - **[Feb. 2026]** Published preprint for Learning to Share, our memory-based parallel multi-agentic system.
 - **[Feb. 2026]** Published preprint for MedRoute, our medical multi-agentic system.
 - **[Jan. 2026]** ICLR 2026 paper accepted for poster presentation!
+- **[Nov. 2025]** Accepted into UCF PhD candidacy!
 - **[Nov. 2025]** AAAI 2026 paper accepted to main conference for poster presentation!
 - **[Jun. 2025]** Published preprint for ImplicitQA, our video multimodal model benchmark for implicit reasoning.
 - **[May 2025]** Started summer internship @ Adobe Seattle. 
@@ -33,9 +39,5 @@ I am a 5th year Ph.D. candidate at the University of Central Florida (UCF) study
 - **[Jun. 2021]** Solar defect segmentation work invited to publish in JPV (Journal of Photovoltaics) is accepted.
 - **[Mar. 2021]** Our work on semantic segmentation of solar panel defects is accepted for oral presentation at PVSC 48, finalist for Best Student Presentation Award.
 - **[May 2020]** Accepted to summer NSF REU in Computer Vision at UCF CRCV lab.
-
-{% include_relative _includes/work_experience.md %}
-
-{% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
