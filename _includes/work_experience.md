@@ -3,8 +3,8 @@
 <div class="work-experience" style="margin-top: 20px;">
 
 <div class="pub-row" style="margin-bottom: 30px;">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/Adobe-logo.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; max-width: 100px; margin-right: 20px;">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 5px;">
+    <img src="assets/img/Adobe-logo.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; max-width: 150px; margin-right: 5px;">
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 30px;">
@@ -21,8 +21,8 @@
 </div>
 
 <div class="pub-row" style="margin-bottom: 30px;">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/Adobe-logo.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; max-width: 100px; margin-right: 20px;">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 5px;">
+    <img src="assets/img/Adobe-logo.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; max-width: 150px; margin-right: 5px;">
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 30px;">
@@ -40,8 +40,8 @@
 </div>
 
 <div class="pub-row" style="margin-bottom: 30px;">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/iai_logo.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; max-width: 100px; margin-right: 20px;">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 5px;">
+    <img src="assets/img/iai_logo.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; max-width: 150px; margin-right: 5px;">
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 30px;">
@@ -58,8 +58,8 @@
 </div>
 
 <div class="pub-row" style="margin-bottom: 30px;">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/bettersolar_logo.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; max-width: 100px; margin-right: 20px;">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 5px;">
+    <img src="assets/img/bettersolar_logo.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; max-width: 150px; margin-right: 5px;">
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 30px;">
