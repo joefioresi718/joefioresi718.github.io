@@ -7,21 +7,42 @@
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/controlembed_teaser.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ECCV</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2602.05965"></a>Learning to Share: Selective Memory for Efficient Parallel Agentic Systems</div>
+    <div class="author"><strong>Joseph Fioresi</strong>, Fabian Caba Heilbron, Pankaj Nathani, Mubarak Shah, Kushal Kafle</div>
+    <div class="periodical"><em><strong>European Conference on Computer Vision (ECCV)</strong>, 2026.</em></div>
+    <div class="links">
+      <a href="./assets/files/controlembed_arxiv.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://arxiv.org/abs/2607.22919" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">ArXiV</a>
+      <!-- <a href="https://github.com/UCF-CRCV/autogen-lts" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      <a href="https://joefioresi718.github.io/ControlEmbed_webpage/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+<!--       <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
+      <strong><i style="color:#e74d3c">Poster Presentation</i></strong>
+    </div>
+  </div>
+</div>
+
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/lts_teaser.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv</abbr>
+    <abbr class="badge">ICML</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2602.05965"></a>Learning to Share: Selective Memory for Efficient Parallel Agentic Systems</div>
     <div class="author"><strong>Joseph Fioresi</strong>, Parth Parag Kulkarni, Ashmal Vayani, Song Wang, Mubarak Shah</div>
-    <div class="periodical"><em><strong>ICML</strong>, 2026.</em></div>
+    <div class="periodical"><em><strong>International Conference on Machine Learning (ICML)</strong>, 2026.</em></div>
     <div class="links">
       <a href="./assets/files/lts_arxiv.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://arxiv.org/abs/2602.05965" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">ArXiV</a>
       <a href="https://github.com/UCF-CRCV/autogen-lts" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://joefioresi718.github.io/LTS_webpage/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
 <!--       <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
-      <strong><i style="color:#e74d3c">Preprint</i></strong>
+      <strong><i style="color:#e74d3c">Poster Presentation</i></strong>
     </div>
   </div>
 </div>

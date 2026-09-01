@@ -3,6 +3,10 @@
 <h4 style="margin:0 10px 0;">Conference Reviewing</h4>
 
 <ul style="margin:0 0 5px;">
+  <li><a href="https://iclr.cc/"><autocolor>International Conference on Learning Representations (ICLR) 2027</autocolor></a></li>
+  <li><a href="https://neurips.cc/"><autocolor>Conference on Neural Information Processing Systems (NeurIPS) 2026</autocolor></a></li>
+  <li><a href="https://wacv.thecvf.com/"><autocolor>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2027</autocolor></a></li>
+  <li><a href="https://eccv.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2026</autocolor></a></li>
   <li><a href="http://cvpr2026.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026</autocolor></a></li>
   <li><a href="https://iclr.cc/"><autocolor>International Conference on Learning Representations (ICLR) 2026</autocolor></a></li>
   <li><a href="https://2026.ieeeicassp.org/"><autocolor>IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2026</autocolor></a></li>
@@ -11,7 +15,7 @@
   <li><a href="https://iccv.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2025</autocolor></a></li>
   <li><a href="http://cvpr2025.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025</autocolor></a></li>
   <li><a href="https://iclr.cc/"><autocolor>International Conference on Learning Representations (ICLR) 2025</autocolor></a></li>
-  <li><a href="https://eccv2024.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2024</autocolor></a></li>
+  <li><a href="https://eccv.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2024</autocolor></a></li>
   <li><a href="https://neurips.cc/"><autocolor>Conference on Neural Information Processing Systems (NeurIPS) 2024</autocolor></a></li>
   <li><a href="https://bmvc2024.org/"><autocolor>British Machine Vision Conference (BMVC) 2024</autocolor></a></li>
   <li><a href="https://2025.ieeeicassp.org/"><autocolor>IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2025</autocolor></a></li>
